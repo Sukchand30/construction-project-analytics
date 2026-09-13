@@ -1,8 +1,6 @@
 # construction-project-analytics
 Construction Project Performance Analytics &amp; Decision Support System using Python, SQL and Power BI
 
-Construction Project Performance Analytics & Decision Support System
-
 📌 Project Overview
 
 The Construction Project Performance Analytics & Decision Support System is a data-driven construction project management analytics project developed to monitor and evaluate the performance of a residential building project.
