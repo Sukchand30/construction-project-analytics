@@ -1,0 +1,447 @@
+Inspection_ID,Project_ID,Activity_ID,Date,Contractor_ID,Inspection_Type,Test_or_Check,Result,Defect_Type,Defect_Severity,Rework_Required,Rework_Cost_INR,Remarks
+Q00001,P001,A001,2026-01-01,C001,Setting out check,Setting out check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00002,P001,A001,2026-01-01,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00003,P001,A001,2026-01-04,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00004,P001,A001,2026-01-10,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00005,P001,A001,2026-01-10,C001,Setting out check,Setting out check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00006,P001,A002,2026-01-04,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00007,P001,A002,2026-01-07,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00008,P001,A002,2026-01-08,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00009,P001,A002,2026-01-08,C001,Setting out check,Setting out check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00010,P001,A002,2026-01-09,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00011,P001,A003,2026-01-05,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00012,P001,A003,2026-01-13,C001,Setting out check,Setting out check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00013,P001,A003,2026-01-15,C001,Setting out check,Setting out check,Conditional Pass,Crack,Low,No,2652.38,Inspection completed; corrective action tracked where required.
+Q00014,P001,A003,2026-01-18,C001,Setting out check,Setting out check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00015,P001,A003,2026-01-24,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00016,P001,A004,2026-01-08,C001,Site inspection,Site inspection,Conditional Pass,Honeycombing,Low,No,1722.52,Inspection completed; corrective action tracked where required.
+Q00017,P001,A004,2026-01-09,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00018,P001,A004,2026-01-09,C001,Setting out check,Setting out check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00019,P001,A004,2026-01-12,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00020,P001,A004,2026-01-13,C001,Site inspection,Site inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00021,P001,A005,2026-01-12,C001,Level check,Level check,Conditional Pass,Crack,Low,No,365.9,Inspection completed; corrective action tracked where required.
+Q00022,P001,A005,2026-01-17,C001,Level check,Level check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00023,P001,A005,2026-01-17,C001,Compaction test,Compaction test,Fail,Workmanship,Low,Yes,18461.95,Inspection completed; corrective action tracked where required.
+Q00024,P001,A005,2026-01-23,C001,Level check,Level check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00025,P001,A005,2026-01-31,C001,Level check,Level check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00026,P001,A006,2026-02-01,C001,Compaction test,Compaction test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00027,P001,A006,2026-02-02,C001,Level check,Level check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00028,P001,A006,2026-02-03,C001,Compaction test,Compaction test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00029,P001,A006,2026-02-03,C001,Compaction test,Compaction test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00030,P001,A006,2026-02-10,C001,Compaction test,Compaction test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00031,P001,A007,2026-02-06,C001,Compaction test,Compaction test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00032,P001,A007,2026-02-07,C001,Level check,Level check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00033,P001,A007,2026-02-09,C001,Level check,Level check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00034,P001,A007,2026-02-18,C001,Level check,Level check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00035,P001,A007,2026-02-20,C001,Compaction test,Compaction test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00036,P001,A008,2026-01-21,C001,Level check,Level check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00037,P001,A008,2026-01-22,C001,Compaction test,Compaction test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00038,P001,A008,2026-01-24,C001,Level check,Level check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00039,P001,A008,2026-01-30,C001,Compaction test,Compaction test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00040,P001,A008,2026-01-31,C001,Compaction test,Compaction test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00041,P001,A009,2026-02-16,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00042,P001,A009,2026-02-18,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00043,P001,A009,2026-02-23,C002,Rebar inspection,Rebar inspection,Conditional Pass,Workmanship,Medium,No,2114.53,Inspection completed; corrective action tracked where required.
+Q00044,P001,A009,2026-02-27,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00045,P001,A009,2026-03-01,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00046,P001,A010,2026-02-23,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00047,P001,A010,2026-02-28,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00048,P001,A010,2026-03-02,C002,RCC inspection,RCC inspection,Conditional Pass,Honeycombing,Low,No,4781.7,Inspection completed; corrective action tracked where required.
+Q00049,P001,A010,2026-03-06,C002,Concrete inspection,Concrete inspection,Conditional Pass,Reinforcement Issue,Medium,No,1909.38,Inspection completed; corrective action tracked where required.
+Q00050,P001,A010,2026-03-13,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00051,P001,A011,2026-03-18,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00052,P001,A011,2026-03-22,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00053,P001,A011,2026-03-23,C002,Concrete inspection,Concrete inspection,Fail,Honeycombing,Low,Yes,8368.59,Inspection completed; corrective action tracked where required.
+Q00054,P001,A011,2026-03-28,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00055,P001,A011,2026-03-28,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00056,P001,A012,2026-03-22,C002,Rebar inspection,Rebar inspection,Conditional Pass,Surface Finish,Medium,No,3812.01,Inspection completed; corrective action tracked where required.
+Q00057,P001,A012,2026-03-26,C002,Concrete inspection,Concrete inspection,Fail,Reinforcement Issue,Low,Yes,12868.73,Inspection completed; corrective action tracked where required.
+Q00058,P001,A012,2026-03-27,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00059,P001,A012,2026-03-28,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00060,P001,A012,2026-03-31,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00061,P001,A013,2026-03-25,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00062,P001,A013,2026-03-28,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00063,P001,A013,2026-04-01,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00064,P001,A013,2026-04-06,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00065,P001,A013,2026-04-08,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00066,P001,A014,2026-04-11,C001,Rebar inspection,Rebar inspection,Conditional Pass,Crack,Low,No,1640.72,Inspection completed; corrective action tracked where required.
+Q00067,P001,A014,2026-04-13,C001,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00068,P001,A014,2026-04-13,C001,RCC inspection,RCC inspection,Conditional Pass,Dimension,Low,No,731.95,Inspection completed; corrective action tracked where required.
+Q00069,P001,A014,2026-04-13,C001,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00070,P001,A014,2026-04-16,C001,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00071,P001,A015,2026-04-03,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00072,P001,A015,2026-04-07,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00073,P001,A015,2026-04-11,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00074,P001,A015,2026-04-14,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00075,P001,A015,2026-04-17,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00076,P001,A016,2026-04-24,C002,Concrete inspection,Concrete inspection,Conditional Pass,Crack,Medium,No,1490.61,Inspection completed; corrective action tracked where required.
+Q00077,P001,A016,2026-04-24,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00078,P001,A016,2026-04-26,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00079,P001,A016,2026-05-01,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00080,P001,A016,2026-05-05,C002,Rebar inspection,Rebar inspection,Conditional Pass,Surface Finish,Medium,No,3254.72,Inspection completed; corrective action tracked where required.
+Q00081,P001,A017,2026-05-14,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00082,P001,A017,2026-05-22,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00083,P001,A017,2026-05-23,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00084,P001,A017,2026-05-25,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00085,P001,A017,2026-05-25,C002,Concrete inspection,Concrete inspection,Conditional Pass,Honeycombing,Medium,No,4759.16,Inspection completed; corrective action tracked where required.
+Q00086,P001,A018,2026-05-28,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00087,P001,A018,2026-06-01,C002,Rebar inspection,Rebar inspection,Fail,Honeycombing,Low,Yes,22920.08,Inspection completed; corrective action tracked where required.
+Q00088,P001,A018,2026-06-04,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00089,P001,A018,2026-06-04,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00090,P001,A018,2026-06-11,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00091,P001,A019,2026-06-19,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00092,P001,A019,2026-06-19,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00093,P001,A019,2026-06-26,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00094,P001,A019,2026-06-28,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00095,P001,A019,2026-06-30,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00096,P001,A020,2026-07-08,C002,Rebar inspection,Rebar inspection,Fail,Dimension,Low,Yes,18012.05,Inspection completed; corrective action tracked where required.
+Q00097,P001,A020,2026-07-08,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00098,P001,A020,2026-07-10,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00099,P001,A020,2026-07-15,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00100,P001,A020,2026-07-21,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00101,P001,A021,2026-07-27,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00102,P001,A021,2026-07-28,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00103,P001,A021,2026-07-30,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00104,P001,A021,2026-08-04,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00105,P001,A021,2026-08-06,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00106,P001,A022,2026-08-13,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00107,P001,A022,2026-08-17,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00108,P001,A022,2026-08-22,C002,Rebar inspection,Rebar inspection,Conditional Pass,Surface Finish,Low,No,1923.97,Inspection completed; corrective action tracked where required.
+Q00109,P001,A022,2026-08-24,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00110,P001,A022,2026-08-25,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00111,P001,A023,2026-09-02,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00112,P001,A023,2026-09-11,C002,Concrete inspection,Concrete inspection,Conditional Pass,Honeycombing,Low,No,2214.57,Inspection completed; corrective action tracked where required.
+Q00113,P001,A023,2026-09-14,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00114,P001,A023,2026-09-16,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00115,P001,A023,2026-09-16,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00116,P001,A024,2026-09-19,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00117,P001,A024,2026-09-22,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00118,P001,A024,2026-09-27,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00119,P001,A024,2026-09-28,C002,RCC inspection,RCC inspection,Fail,Workmanship,Low,Yes,29799.46,Inspection completed; corrective action tracked where required.
+Q00120,P001,A024,2026-10-03,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00121,P001,A025,2026-10-08,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00122,P001,A025,2026-10-09,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00123,P001,A025,2026-10-14,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00124,P001,A025,2026-10-16,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00125,P001,A025,2026-10-19,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00126,P001,A026,2026-04-13,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00127,P001,A026,2026-04-14,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00128,P001,A026,2026-04-24,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00129,P001,A026,2026-04-24,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00130,P001,A026,2026-04-25,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00131,P001,A027,2026-05-04,C002,Rebar inspection,Rebar inspection,Conditional Pass,Crack,Low,No,3414.47,Inspection completed; corrective action tracked where required.
+Q00132,P001,A027,2026-05-05,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00133,P001,A027,2026-05-10,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00134,P001,A027,2026-05-15,C002,Rebar inspection,Rebar inspection,Fail,Reinforcement Issue,Low,Yes,5009.43,Inspection completed; corrective action tracked where required.
+Q00135,P001,A027,2026-05-16,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00136,P001,A028,2026-05-24,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00137,P001,A028,2026-05-29,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00138,P001,A028,2026-05-31,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00139,P001,A028,2026-06-10,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00140,P001,A028,2026-06-11,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00141,P001,A029,2026-06-18,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00142,P001,A029,2026-06-19,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00143,P001,A029,2026-06-21,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00144,P001,A029,2026-06-23,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00145,P001,A029,2026-07-01,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00146,P001,A030,2026-07-07,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00147,P001,A030,2026-07-11,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00148,P001,A030,2026-07-12,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00149,P001,A030,2026-07-15,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00150,P001,A030,2026-07-22,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00151,P001,A031,2026-07-28,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00152,P001,A031,2026-07-30,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00153,P001,A031,2026-08-02,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00154,P001,A031,2026-08-04,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00155,P001,A031,2026-08-14,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00156,P001,A032,2026-08-17,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00157,P001,A032,2026-08-21,C002,RCC inspection,RCC inspection,Conditional Pass,Leakage,Low,No,4207.16,Inspection completed; corrective action tracked where required.
+Q00158,P001,A032,2026-08-24,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00159,P001,A032,2026-09-02,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00160,P001,A032,2026-09-03,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00161,P001,A033,2026-09-10,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00162,P001,A033,2026-09-11,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00163,P001,A033,2026-09-15,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00164,P001,A033,2026-09-15,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00165,P001,A033,2026-09-18,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00166,P001,A034,2026-09-28,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00167,P001,A034,2026-10-09,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00168,P001,A034,2026-10-11,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00169,P001,A034,2026-10-12,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00170,P001,A034,2026-10-16,C002,RCC inspection,RCC inspection,Conditional Pass,Leakage,Low,No,3351.82,Inspection completed; corrective action tracked where required.
+Q00171,P001,A035,2026-10-20,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00172,P001,A035,2026-10-23,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00173,P001,A035,2026-10-23,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00174,P001,A035,2026-10-24,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00175,P001,A035,2026-11-05,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00176,P001,A036,2026-11-09,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00177,P001,A036,2026-11-10,C002,RCC inspection,RCC inspection,Conditional Pass,Leakage,Low,No,4911.15,Inspection completed; corrective action tracked where required.
+Q00178,P001,A036,2026-11-11,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00179,P001,A036,2026-11-19,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00180,P001,A036,2026-11-25,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00181,P001,A037,2026-05-02,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00182,P001,A037,2026-05-03,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00183,P001,A037,2026-05-06,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00184,P001,A037,2026-05-08,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00185,P001,A037,2026-05-15,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00186,P001,A038,2026-05-24,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00187,P001,A038,2026-05-30,C002,RCC inspection,RCC inspection,Conditional Pass,Material Quality,Low,No,2872.34,Inspection completed; corrective action tracked where required.
+Q00188,P001,A038,2026-05-30,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00189,P001,A038,2026-05-31,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00190,P001,A038,2026-06-04,C002,RCC inspection,RCC inspection,Conditional Pass,Leakage,Low,No,2782.78,Inspection completed; corrective action tracked where required.
+Q00191,P001,A039,2026-06-11,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00192,P001,A039,2026-06-11,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00193,P001,A039,2026-06-20,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00194,P001,A039,2026-06-22,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00195,P001,A039,2026-06-23,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00196,P001,A040,2026-07-04,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00197,P001,A040,2026-07-06,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00198,P001,A040,2026-07-12,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00199,P001,A040,2026-07-21,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00200,P001,A040,2026-07-24,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00201,P001,A041,2026-07-27,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00202,P001,A041,2026-08-02,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00203,P001,A041,2026-08-08,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00204,P001,A041,2026-08-11,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00205,P001,A041,2026-08-11,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00206,P001,A042,2026-08-20,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00207,P001,A042,2026-08-23,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00208,P001,A042,2026-08-28,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00209,P001,A042,2026-08-29,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00210,P001,A042,2026-09-02,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00211,P001,A043,2026-09-11,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00212,P001,A043,2026-09-22,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00213,P001,A043,2026-09-26,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00214,P001,A043,2026-09-28,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00215,P001,A043,2026-10-01,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00216,P001,A044,2026-10-06,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00217,P001,A044,2026-10-18,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00218,P001,A044,2026-10-20,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00219,P001,A044,2026-10-20,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00220,P001,A044,2026-10-23,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00221,P001,A045,2026-10-31,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00222,P001,A045,2026-11-02,C002,Concrete inspection,Concrete inspection,Conditional Pass,Material Quality,Low,No,2745.7,Inspection completed; corrective action tracked where required.
+Q00223,P001,A045,2026-11-08,C002,RCC inspection,RCC inspection,Conditional Pass,Reinforcement Issue,Low,No,2890.3,Inspection completed; corrective action tracked where required.
+Q00224,P001,A045,2026-11-14,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00225,P001,A045,2026-11-15,C002,Concrete inspection,Concrete inspection,Conditional Pass,Reinforcement Issue,Low,No,2920.24,Inspection completed; corrective action tracked where required.
+Q00226,P001,A046,2026-11-18,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00227,P001,A046,2026-11-26,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00228,P001,A046,2026-11-27,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00229,P001,A046,2026-12-06,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00230,P001,A046,2026-12-06,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00231,P001,A047,2026-12-11,C002,RCC inspection,RCC inspection,Conditional Pass,Honeycombing,Medium,No,268.58,Inspection completed; corrective action tracked where required.
+Q00232,P001,A047,2026-12-14,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00233,P001,A047,2026-12-17,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00234,P001,A047,2026-12-22,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00235,P001,A047,2026-12-26,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00236,P001,A048,2026-04-17,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00237,P001,A048,2026-05-05,C002,Concrete inspection,Concrete inspection,Fail,Reinforcement Issue,Medium,Yes,8124.29,Inspection completed; corrective action tracked where required.
+Q00238,P001,A048,2026-05-12,C002,Rebar inspection,Rebar inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00239,P001,A048,2026-05-19,C002,RCC inspection,RCC inspection,Fail,Honeycombing,Low,Yes,27901.61,Inspection completed; corrective action tracked where required.
+Q00240,P001,A048,2026-05-21,C002,RCC inspection,RCC inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00241,P001,A048,2026-05-22,C002,RCC inspection,RCC inspection,Conditional Pass,Crack,Medium,No,4407.82,Inspection completed; corrective action tracked where required.
+Q00242,P001,A048,2026-05-25,C002,Concrete inspection,Concrete inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00243,P001,A049,2026-06-10,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00244,P001,A049,2026-06-11,C003,Dimensional check,Dimensional check,Conditional Pass,Poor Compaction,Medium,No,4570.3,Inspection completed; corrective action tracked where required.
+Q00245,P001,A049,2026-06-20,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00246,P001,A049,2026-06-21,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00247,P001,A049,2026-06-22,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00248,P001,A049,2026-06-29,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00249,P001,A049,2026-07-12,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00250,P001,A049,2026-07-16,C003,Brickwork inspection,Brickwork inspection,Conditional Pass,Honeycombing,High,Yes,34022.4,Inspection completed; corrective action tracked where required.
+Q00251,P001,A049,2026-07-18,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00252,P001,A049,2026-08-02,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00253,P001,A049,2026-08-03,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00254,P001,A050,2026-06-16,C003,Brickwork inspection,Brickwork inspection,Conditional Pass,Dimension,High,Yes,19099.7,Inspection completed; corrective action tracked where required.
+Q00255,P001,A050,2026-06-18,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00256,P001,A050,2026-06-25,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00257,P001,A050,2026-07-01,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00258,P001,A050,2026-07-02,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00259,P001,A050,2026-07-09,C003,Dimensional check,Dimensional check,Conditional Pass,Leakage,Low,No,1117.22,Inspection completed; corrective action tracked where required.
+Q00260,P001,A050,2026-07-17,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00261,P001,A050,2026-07-21,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00262,P001,A050,2026-07-30,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00263,P001,A050,2026-08-05,C003,Dimensional check,Dimensional check,Fail,Crack,High,Yes,18949.99,Inspection completed; corrective action tracked where required.
+Q00264,P001,A050,2026-08-10,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00265,P001,A050,2026-08-10,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00266,P001,A051,2026-07-24,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00267,P001,A051,2026-07-25,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00268,P001,A051,2026-07-25,C003,Dimensional check,Dimensional check,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00269,P001,A051,2026-07-27,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00270,P001,A051,2026-07-30,C003,Brickwork inspection,Brickwork inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00271,P001,A052,2026-08-30,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00272,P001,A052,2026-09-01,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00273,P001,A052,2026-09-08,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00274,P001,A052,2026-09-08,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00275,P001,A052,2026-09-12,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00276,P001,A052,2026-09-15,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00277,P001,A052,2026-09-15,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00278,P001,A052,2026-09-19,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00279,P001,A052,2026-09-19,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00280,P001,A052,2026-09-29,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00281,P001,A052,2026-10-06,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00282,P001,A052,2026-10-08,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00283,P001,A053,2026-08-22,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00284,P001,A053,2026-08-26,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00285,P001,A053,2026-09-03,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00286,P001,A053,2026-09-07,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00287,P001,A053,2026-09-13,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00288,P001,A053,2026-09-15,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00289,P001,A053,2026-09-16,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00290,P001,A053,2026-09-29,C004,Flooring inspection,Flooring inspection,Conditional Pass,Leakage,Low,No,992.2,Inspection completed; corrective action tracked where required.
+Q00291,P001,A053,2026-09-30,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00292,P001,A053,2026-10-08,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00293,P001,A054,2026-08-25,C008,Waterproofing inspection,Waterproofing inspection,Conditional Pass,Leakage,Low,No,500.53,Inspection completed; corrective action tracked where required.
+Q00294,P001,A054,2026-08-31,C008,Leakage test,Leakage test,Fail,Workmanship,Medium,Yes,5710.92,Inspection completed; corrective action tracked where required.
+Q00295,P001,A054,2026-09-05,C008,Leakage test,Leakage test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00296,P001,A054,2026-09-08,C008,Waterproofing inspection,Waterproofing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00297,P001,A054,2026-09-11,C008,Leakage test,Leakage test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00298,P001,A055,2026-11-27,C008,Waterproofing inspection,Waterproofing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00299,P001,A055,2026-12-03,C008,Leakage test,Leakage test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00300,P001,A055,2026-12-06,C008,Leakage test,Leakage test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00301,P001,A055,2026-12-07,C008,Leakage test,Leakage test,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00302,P001,A055,2026-12-18,C008,Waterproofing inspection,Waterproofing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00303,P001,A056,2026-09-21,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00304,P001,A056,2026-09-25,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00305,P001,A056,2026-09-25,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00306,P001,A056,2026-09-25,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00307,P001,A056,2026-09-28,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00308,P001,A056,2026-10-01,C004,Flooring inspection,Flooring inspection,Conditional Pass,Workmanship,Low,No,210.15,Inspection completed; corrective action tracked where required.
+Q00309,P001,A056,2026-10-03,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00310,P001,A056,2026-10-09,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00311,P001,A056,2026-10-25,C004,Painting inspection,Painting inspection,Fail,Crack,Medium,Yes,20532.19,Inspection completed; corrective action tracked where required.
+Q00312,P001,A056,2026-11-01,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00313,P001,A056,2026-11-03,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00314,P001,A056,2026-11-05,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00315,P001,A056,2026-11-08,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00316,P001,A056,2026-11-24,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00317,P001,A057,2026-09-26,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00318,P001,A057,2026-09-29,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00319,P001,A057,2026-10-04,C004,Painting inspection,Painting inspection,Fail,Honeycombing,Low,Yes,20870.32,Inspection completed; corrective action tracked where required.
+Q00320,P001,A057,2026-10-13,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00321,P001,A057,2026-10-27,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00322,P001,A057,2026-11-01,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00323,P001,A057,2026-11-13,C004,Painting inspection,Painting inspection,Conditional Pass,Alignment,Low,No,46.67,Inspection completed; corrective action tracked where required.
+Q00324,P001,A057,2026-11-18,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00325,P001,A057,2026-11-19,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00326,P001,A057,2026-11-21,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00327,P001,A057,2026-11-25,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00328,P001,A058,2026-10-17,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00329,P001,A058,2026-10-22,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00330,P001,A058,2026-10-31,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00331,P001,A058,2026-10-31,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00332,P001,A058,2026-11-25,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00333,P001,A058,2026-11-25,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00334,P001,A058,2026-12-07,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00335,P001,A058,2026-12-09,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00336,P001,A058,2026-12-11,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00337,P001,A058,2026-12-18,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00338,P001,A059,2026-09-28,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00339,P001,A059,2026-10-11,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00340,P001,A059,2026-10-19,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00341,P001,A059,2026-10-20,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00342,P001,A059,2026-10-26,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00343,P001,A059,2026-10-27,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00344,P001,A059,2026-10-30,C004,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00345,P001,A059,2026-11-01,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00346,P001,A059,2026-11-09,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00347,P001,A059,2026-11-17,C004,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00348,P001,A059,2026-11-27,C004,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00349,P001,A060,2026-10-04,C005,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00350,P001,A060,2026-10-15,C005,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00351,P001,A060,2026-10-18,C005,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00352,P001,A060,2026-10-24,C005,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00353,P001,A060,2026-10-31,C005,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00354,P001,A060,2026-11-01,C005,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00355,P001,A060,2026-11-08,C005,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00356,P001,A060,2026-11-12,C005,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00357,P001,A060,2026-11-19,C005,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00358,P001,A060,2026-11-24,C005,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00359,P001,A060,2026-11-29,C005,Flooring inspection,Flooring inspection,Fail,Material Quality,High,Yes,22158.83,Inspection completed; corrective action tracked where required.
+Q00360,P001,A060,2026-12-17,C005,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00361,P001,A060,2026-12-19,C005,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00362,P001,A061,2026-10-19,C005,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00363,P001,A061,2026-10-19,C005,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00364,P001,A061,2026-10-22,C005,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00365,P001,A061,2026-11-07,C005,Flooring inspection,Flooring inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00366,P001,A061,2026-11-13,C005,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00367,P001,A061,2026-11-17,C005,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00368,P001,A061,2026-11-20,C005,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00369,P001,A061,2026-11-22,C005,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00370,P001,A061,2026-12-07,C005,Painting inspection,Painting inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00371,P001,A061,2026-12-09,C005,Plaster inspection,Plaster inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00372,P001,A062,2026-08-25,C006,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00373,P001,A062,2026-08-27,C006,Electrical inspection,Electrical inspection,Conditional Pass,Alignment,Low,No,2279.92,Inspection completed; corrective action tracked where required.
+Q00374,P001,A062,2026-08-28,C006,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00375,P001,A062,2026-09-30,C006,Electrical inspection,Electrical inspection,Fail,Crack,Medium,Yes,32370.14,Inspection completed; corrective action tracked where required.
+Q00376,P001,A062,2026-10-05,C006,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00377,P001,A062,2026-10-05,C006,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00378,P001,A062,2026-10-18,C006,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00379,P001,A062,2026-10-24,C006,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00380,P001,A062,2026-10-27,C006,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00381,P001,A062,2026-10-28,C006,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00382,P001,A062,2026-11-06,C006,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00383,P001,A062,2026-11-10,C006,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00384,P001,A062,2026-11-10,C006,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00385,P001,A062,2026-11-12,C006,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00386,P001,A062,2026-11-17,C006,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00387,P001,A062,2026-11-20,C006,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00388,P001,A063,2026-10-22,C006,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00389,P001,A063,2026-10-27,C006,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00390,P001,A063,2026-10-28,C006,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00391,P001,A063,2026-11-04,C006,Plumbing inspection,Plumbing inspection,Conditional Pass,Dimension,Low,No,1444.01,Inspection completed; corrective action tracked where required.
+Q00392,P001,A063,2026-11-12,C006,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00393,P001,A063,2026-11-26,C006,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00394,P001,A063,2026-12-01,C006,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00395,P001,A063,2026-12-11,C006,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00396,P001,A063,2026-12-16,C006,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00397,P001,A063,2026-12-19,C006,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00398,P001,A064,2026-08-23,C007,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00399,P001,A064,2026-08-26,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00400,P001,A064,2026-08-26,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00401,P001,A064,2026-08-28,C007,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00402,P001,A064,2026-08-29,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00403,P001,A064,2026-08-30,C007,Electrical inspection,Electrical inspection,Fail,Material Quality,Low,Yes,6952.33,Inspection completed; corrective action tracked where required.
+Q00404,P001,A064,2026-08-31,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00405,P001,A064,2026-09-06,C007,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00406,P001,A064,2026-09-08,C007,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00407,P001,A064,2026-10-16,C007,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00408,P001,A064,2026-10-22,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00409,P001,A064,2026-10-25,C007,Sanitary inspection,Sanitary inspection,Fail,Alignment,Low,Yes,16031.41,Inspection completed; corrective action tracked where required.
+Q00410,P001,A064,2026-10-28,C007,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00411,P001,A064,2026-11-14,C007,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00412,P001,A064,2026-11-17,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00413,P001,A064,2026-11-23,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00414,P001,A065,2026-10-29,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00415,P001,A065,2026-11-01,C007,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00416,P001,A065,2026-11-17,C007,Plumbing inspection,Plumbing inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00417,P001,A065,2026-11-21,C007,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00418,P001,A065,2026-11-22,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00419,P001,A065,2026-11-25,C007,Sanitary inspection,Sanitary inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00420,P001,A065,2026-12-04,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00421,P001,A065,2026-12-09,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00422,P001,A065,2026-12-15,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00423,P001,A065,2026-12-21,C007,Electrical inspection,Electrical inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00424,P001,A066,2026-10-25,C001,Drainage inspection,Drainage inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00425,P001,A066,2026-10-25,C001,Drainage inspection,Drainage inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00426,P001,A066,2026-10-28,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00427,P001,A066,2026-10-29,C001,Drainage inspection,Drainage inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00428,P001,A066,2026-10-30,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00429,P001,A066,2026-11-19,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00430,P001,A066,2026-11-30,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00431,P001,A066,2026-12-01,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00432,P001,A066,2026-12-06,C001,Drainage inspection,Drainage inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00433,P001,A067,2026-11-06,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00434,P001,A067,2026-11-12,C001,Drainage inspection,Drainage inspection,Conditional Pass,Honeycombing,Medium,No,1705.51,Inspection completed; corrective action tracked where required.
+Q00435,P001,A067,2026-11-16,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00436,P001,A067,2026-11-24,C001,Drainage inspection,Drainage inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00437,P001,A067,2026-11-25,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00438,P001,A067,2026-12-01,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00439,P001,A067,2026-12-10,C001,Drainage inspection,Drainage inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00440,P001,A067,2026-12-17,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00441,P001,A067,2026-12-22,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00442,P001,A068,2026-12-06,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00443,P001,A068,2026-12-11,C001,Paving inspection,Paving inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00444,P001,A068,2026-12-11,C001,Drainage inspection,Drainage inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00445,P001,A068,2026-12-20,C001,Drainage inspection,Drainage inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.
+Q00446,P001,A068,2026-12-20,C001,Drainage inspection,Drainage inspection,Pass,,,No,0.0,Inspection completed; corrective action tracked where required.

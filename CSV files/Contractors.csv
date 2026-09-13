@@ -1,0 +1,10 @@
+﻿Contractor_ID,Contractor_Name,Specialization,Contact_Person,Contractor_Type,Activities_Handled
+C001,ABC Civil Works,Civil Works,Project Manager,Main Contractor,All Civil Works
+C002,Prime RCC Contractors,RCC Works,Site Manager,Subcontractor,RCC Structure
+C003,Eastern Masonry Works,Masonry,Site Supervisor,Subcontractor,Brickwork and Blockwork
+C004,FinishPro Interiors,Finishing,Project Supervisor,Subcontractor,Plastering and Flooring
+C005,ColorCraft Solutions,Painting,Site Supervisor,Subcontractor,Painting
+C006,AquaFlow Services,Plumbing,MEP Manager,Subcontractor,Plumbing and Sanitary
+C007,Spark Electricals,Electrical,MEP Manager,Subcontractor,Electrical Works
+C008,SafeSeal Waterproofing,Waterproofing,Site Supervisor,Subcontractor,Waterproofing
+C009,BuildPlant Equipment,Equipment,Equipment Manager,Equipment Vendor,Construction Equipment

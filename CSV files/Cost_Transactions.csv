@@ -1,0 +1,283 @@
+Cost_ID,Project_ID,Activity_ID,Date,Contractor_ID,Cost_Type,Description,Planned_Cost_INR,Actual_Cost_INR,Vendor_or_Source
+CT00001,P001,A001,2026-01-04,C001,Other,Site overhead and miscellaneous,89729.3,82559.11,Internal Team
+CT00002,P001,A001,2026-01-05,C001,Subcontract,Subcontractor work,108671.94,113353.4,C001
+CT00003,P001,A001,2026-01-05,C001,Labour,Site labour and workforce cost,125632.49,116228.12,Internal Team
+CT00004,P001,A001,2026-01-06,C001,Labour,Site labour and workforce cost,116436.54,109995.89,Internal Team
+CT00005,P001,A002,2026-01-02,C001,Subcontract,Subcontractor work,55774.21,61260.6,C001
+CT00006,P001,A002,2026-01-10,C001,Equipment,Equipment operation/rental,50478.14,56107.53,BuildPlant Equipment
+CT00007,P001,A002,2026-01-10,C001,Subcontract,Subcontractor work,58339.45,64059.54,C001
+CT00008,P001,A003,2026-01-08,C001,Other,Site overhead and miscellaneous,87521.65,84201.03,Internal Team
+CT00009,P001,A003,2026-01-14,C001,Labour,Site labour and workforce cost,104122.24,112344.1,Internal Team
+CT00010,P001,A003,2026-01-21,C001,Labour,Site labour and workforce cost,124513.9,125047.29,Internal Team
+CT00011,P001,A004,2026-01-10,C001,Other,Site overhead and miscellaneous,58320.93,56484.54,Internal Team
+CT00012,P001,A004,2026-01-12,C001,Labour,Site labour and workforce cost,48495.23,52263.27,Internal Team
+CT00013,P001,A004,2026-01-13,C001,Subcontract,Subcontractor work,62126.17,66162.94,C001
+CT00014,P001,A005,2026-01-29,C001,Equipment,Equipment operation/rental,420656.96,483509.38,BuildPlant Equipment
+CT00015,P001,A005,2026-02-04,C001,Equipment,Equipment operation/rental,442806.16,503339.31,BuildPlant Equipment
+CT00016,P001,A005,2026-02-06,C001,Equipment,Equipment operation/rental,360414.53,397042.89,BuildPlant Equipment
+CT00017,P001,A005,2026-02-09,C001,Equipment,Equipment operation/rental,332465.22,407133.1,BuildPlant Equipment
+CT00018,P001,A006,2026-02-06,C001,Equipment,Equipment operation/rental,250990.74,243616.09,BuildPlant Equipment
+CT00019,P001,A006,2026-02-09,C001,Transportation,Material/soil transportation,276705.23,283606.17,C001
+CT00020,P001,A006,2026-02-20,C001,Equipment,Equipment operation/rental,292880.12,272493.17,BuildPlant Equipment
+CT00021,P001,A007,2026-02-06,C001,Labour,Site labour and workforce cost,113754.58,112747.86,Internal Team
+CT00022,P001,A007,2026-02-06,C001,Transportation,Material/soil transportation,104913.98,97726.07,C001
+CT00023,P001,A007,2026-02-19,C001,Labour,Site labour and workforce cost,124348.62,132168.71,Internal Team
+CT00024,P001,A008,2026-01-20,C001,Labour,Site labour and workforce cost,149603.59,142489.41,Internal Team
+CT00025,P001,A008,2026-01-22,C001,Other,Site overhead and miscellaneous,195838.75,202883.21,Internal Team
+CT00026,P001,A008,2026-01-30,C001,Equipment,Equipment operation/rental,190348.03,204148.97,BuildPlant Equipment
+CT00027,P001,A009,2026-02-23,C002,Material,Material purchase and consumption,753657.08,800157.07,C002
+CT00028,P001,A009,2026-02-25,C002,Material,Material purchase and consumption,1078062.06,1112192.86,C002
+CT00029,P001,A009,2026-03-02,C002,Material,Material purchase and consumption,945349.53,1028503.27,C002
+CT00030,P001,A010,2026-02-26,C002,Equipment,Equipment operation/rental,1609105.56,1543599.78,BuildPlant Equipment
+CT00031,P001,A010,2026-02-27,C002,Labour,Site labour and workforce cost,1180052.14,1127863.69,Internal Team
+CT00032,P001,A010,2026-03-07,C002,Material,Material purchase and consumption,1495494.22,1474899.54,C002
+CT00033,P001,A010,2026-03-07,C002,Material,Material purchase and consumption,1282650.24,1349228.11,C002
+CT00034,P001,A011,2026-03-14,C002,Subcontract,Subcontractor work,1044260.82,1088206.54,C002
+CT00035,P001,A011,2026-03-18,C002,Material,Material purchase and consumption,1705982.96,1816776.92,C002
+CT00036,P001,A011,2026-03-24,C002,Subcontract,Subcontractor work,1706334.21,1720073.2,C002
+CT00037,P001,A011,2026-03-28,C002,Subcontract,Subcontractor work,1089914.08,1150912.51,C002
+CT00038,P001,A012,2026-03-16,C002,Labour,Site labour and workforce cost,545681.33,566615.41,Internal Team
+CT00039,P001,A012,2026-03-19,C002,Material,Material purchase and consumption,519755.71,538864.49,C002
+CT00040,P001,A012,2026-03-28,C002,Labour,Site labour and workforce cost,775162.88,771748.28,Internal Team
+CT00041,P001,A013,2026-04-04,C002,Subcontract,Subcontractor work,452197.99,431909.11,C002
+CT00042,P001,A013,2026-04-04,C002,Labour,Site labour and workforce cost,530259.02,567807.16,Internal Team
+CT00043,P001,A013,2026-04-08,C002,Material,Material purchase and consumption,603219.51,575736.23,C002
+CT00044,P001,A014,2026-04-13,C001,Material,Material purchase and consumption,54025.85,57714.04,C001
+CT00045,P001,A014,2026-04-18,C001,Subcontract,Subcontractor work,44826.3,46210.01,C001
+CT00046,P001,A014,2026-04-19,C001,Material,Material purchase and consumption,63426.47,59880.66,C001
+CT00047,P001,A015,2026-04-02,C002,Material,Material purchase and consumption,304259.04,293798.49,C002
+CT00048,P001,A015,2026-04-09,C002,Material,Material purchase and consumption,247731.33,261433.82,C002
+CT00049,P001,A015,2026-04-13,C002,Material,Material purchase and consumption,272709.71,287664.32,C002
+CT00050,P001,A016,2026-04-20,C002,Subcontract,Subcontractor work,321987.55,321434.52,C002
+CT00051,P001,A016,2026-04-28,C002,Labour,Site labour and workforce cost,221621.26,209305.86,Internal Team
+CT00052,P001,A016,2026-05-02,C002,Material,Material purchase and consumption,295317.08,273930.1,C002
+CT00053,P001,A017,2026-05-14,C002,Material,Material purchase and consumption,240250.9,222262.59,C002
+CT00054,P001,A017,2026-05-17,C002,Material,Material purchase and consumption,285442.12,279674.73,C002
+CT00055,P001,A017,2026-05-18,C002,Material,Material purchase and consumption,290430.22,272245.43,C002
+CT00056,P001,A018,2026-05-28,C002,Material,Material purchase and consumption,311890.84,305794.63,C002
+CT00057,P001,A018,2026-05-30,C002,Material,Material purchase and consumption,274109.56,278210.92,C002
+CT00058,P001,A018,2026-06-04,C002,Material,Material purchase and consumption,205447.24,205944.7,C002
+CT00059,P001,A019,2026-06-22,C002,Material,Material purchase and consumption,205506.29,208839.53,C002
+CT00060,P001,A019,2026-06-29,C002,Equipment,Equipment operation/rental,305618.95,295096.25,BuildPlant Equipment
+CT00061,P001,A019,2026-07-01,C002,Subcontract,Subcontractor work,308820.0,315359.83,C002
+CT00062,P001,A020,2026-07-09,C002,Subcontract,Subcontractor work,276343.35,260724.13,C002
+CT00063,P001,A020,2026-07-12,C002,Material,Material purchase and consumption,247898.59,267240.53,C002
+CT00064,P001,A020,2026-07-21,C002,Material,Material purchase and consumption,204691.11,203135.72,C002
+CT00065,P001,A021,2026-07-25,C002,Material,Material purchase and consumption,220174.38,204382.47,C002
+CT00066,P001,A021,2026-08-02,C002,Subcontract,Subcontractor work,330131.24,317761.06,C002
+CT00067,P001,A021,2026-08-08,C002,Material,Material purchase and consumption,270548.63,252831.02,C002
+CT00068,P001,A022,2026-08-17,C002,Subcontract,Subcontractor work,237442.81,237615.49,C002
+CT00069,P001,A022,2026-08-19,C002,Material,Material purchase and consumption,318536.66,315899.29,C002
+CT00070,P001,A022,2026-08-21,C002,Subcontract,Subcontractor work,240230.8,253894.18,C002
+CT00071,P001,A023,2026-09-05,C002,Subcontract,Subcontractor work,206694.4,203117.35,C002
+CT00072,P001,A023,2026-09-07,C002,Material,Material purchase and consumption,229524.76,236136.36,C002
+CT00073,P001,A023,2026-09-15,C002,Material,Material purchase and consumption,226978.4,233326.99,C002
+CT00074,P001,A024,2026-09-23,C002,Material,Material purchase and consumption,265478.75,259587.2,C002
+CT00075,P001,A024,2026-09-25,C002,Material,Material purchase and consumption,317604.07,321260.36,C002
+CT00076,P001,A024,2026-09-28,C002,Labour,Site labour and workforce cost,231367.16,246178.04,Internal Team
+CT00077,P001,A025,2026-10-14,C002,Material,Material purchase and consumption,303359.97,285437.55,C002
+CT00078,P001,A025,2026-10-15,C002,Material,Material purchase and consumption,311437.47,333208.56,C002
+CT00079,P001,A025,2026-10-21,C002,Material,Material purchase and consumption,284381.83,293953.41,C002
+CT00080,P001,A026,2026-04-12,C002,Subcontract,Subcontractor work,318018.84,319710.69,C002
+CT00081,P001,A026,2026-04-20,C002,Material,Material purchase and consumption,264271.22,269053.87,C002
+CT00082,P001,A026,2026-04-26,C002,Material,Material purchase and consumption,238474.65,254792.74,C002
+CT00083,P001,A027,2026-05-08,C002,Material,Material purchase and consumption,241417.57,232894.75,C002
+CT00084,P001,A027,2026-05-08,C002,Material,Material purchase and consumption,266638.32,261460.03,C002
+CT00085,P001,A027,2026-05-15,C002,Material,Material purchase and consumption,296913.92,289265.78,C002
+CT00086,P001,A028,2026-05-24,C002,Material,Material purchase and consumption,355422.28,383333.44,C002
+CT00087,P001,A028,2026-05-30,C002,Material,Material purchase and consumption,382492.87,382751.09,C002
+CT00088,P001,A028,2026-05-30,C002,Material,Material purchase and consumption,320012.26,310518.47,C002
+CT00089,P001,A029,2026-06-14,C002,Equipment,Equipment operation/rental,357032.9,374536.01,BuildPlant Equipment
+CT00090,P001,A029,2026-06-15,C002,Subcontract,Subcontractor work,284832.39,304394.33,C002
+CT00091,P001,A029,2026-06-29,C002,Material,Material purchase and consumption,251108.79,270967.24,C002
+CT00092,P001,A030,2026-07-13,C002,Material,Material purchase and consumption,357554.44,374672.6,C002
+CT00093,P001,A030,2026-07-20,C002,Labour,Site labour and workforce cost,331129.61,350036.34,Internal Team
+CT00094,P001,A030,2026-07-20,C002,Material,Material purchase and consumption,251666.62,242643.82,C002
+CT00095,P001,A031,2026-08-03,C002,Material,Material purchase and consumption,303203.66,321609.91,C002
+CT00096,P001,A031,2026-08-12,C002,Material,Material purchase and consumption,278828.7,296394.6,C002
+CT00097,P001,A031,2026-08-14,C002,Material,Material purchase and consumption,303340.43,294983.17,C002
+CT00098,P001,A032,2026-08-16,C002,Material,Material purchase and consumption,260158.77,253995.3,C002
+CT00099,P001,A032,2026-08-26,C002,Material,Material purchase and consumption,325361.96,320854.17,C002
+CT00100,P001,A032,2026-08-30,C002,Material,Material purchase and consumption,366016.2,351769.19,C002
+CT00101,P001,A033,2026-09-06,C002,Subcontract,Subcontractor work,319167.46,302314.33,C002
+CT00102,P001,A033,2026-09-19,C002,Equipment,Equipment operation/rental,365120.81,370037.5,BuildPlant Equipment
+CT00103,P001,A033,2026-09-25,C002,Material,Material purchase and consumption,277743.27,296834.18,C002
+CT00104,P001,A034,2026-09-29,C002,Labour,Site labour and workforce cost,330412.33,347112.75,Internal Team
+CT00105,P001,A034,2026-10-12,C002,Labour,Site labour and workforce cost,246885.55,247369.17,Internal Team
+CT00106,P001,A034,2026-10-15,C002,Material,Material purchase and consumption,276972.76,284192.86,C002
+CT00107,P001,A035,2026-10-20,C002,Subcontract,Subcontractor work,328802.51,340274.42,C002
+CT00108,P001,A035,2026-10-25,C002,Material,Material purchase and consumption,305968.32,289142.09,C002
+CT00109,P001,A035,2026-10-25,C002,Material,Material purchase and consumption,252653.86,272856.68,C002
+CT00110,P001,A036,2026-11-17,C002,Subcontract,Subcontractor work,250072.1,234628.42,C002
+CT00111,P001,A036,2026-11-23,C002,Material,Material purchase and consumption,382667.07,410065.61,C002
+CT00112,P001,A036,2026-11-26,C002,Subcontract,Subcontractor work,285818.0,279194.56,C002
+CT00113,P001,A037,2026-05-04,C002,Material,Material purchase and consumption,562344.46,523399.25,C002
+CT00114,P001,A037,2026-05-10,C002,Subcontract,Subcontractor work,392381.59,402032.95,C002
+CT00115,P001,A037,2026-05-11,C002,Material,Material purchase and consumption,468949.04,480613.45,C002
+CT00116,P001,A038,2026-05-20,C002,Subcontract,Subcontractor work,417299.99,405292.5,C002
+CT00117,P001,A038,2026-05-27,C002,Labour,Site labour and workforce cost,476427.76,479261.37,Internal Team
+CT00118,P001,A038,2026-05-27,C002,Subcontract,Subcontractor work,458201.46,425990.32,C002
+CT00119,P001,A039,2026-06-18,C002,Material,Material purchase and consumption,542372.85,532666.88,C002
+CT00120,P001,A039,2026-06-20,C002,Material,Material purchase and consumption,470572.77,473125.58,C002
+CT00121,P001,A039,2026-06-21,C002,Material,Material purchase and consumption,579324.44,568096.48,C002
+CT00122,P001,A040,2026-07-08,C002,Subcontract,Subcontractor work,584886.52,543590.6,C002
+CT00123,P001,A040,2026-07-09,C002,Material,Material purchase and consumption,491920.21,507529.31,C002
+CT00124,P001,A040,2026-07-15,C002,Subcontract,Subcontractor work,634111.54,629888.49,C002
+CT00125,P001,A041,2026-07-26,C002,Material,Material purchase and consumption,566975.0,696127.09,C002
+CT00126,P001,A041,2026-07-28,C002,Equipment,Equipment operation/rental,542881.74,642834.25,BuildPlant Equipment
+CT00127,P001,A041,2026-08-04,C002,Material,Material purchase and consumption,574915.43,703246.52,C002
+CT00128,P001,A042,2026-08-29,C002,Material,Material purchase and consumption,601888.2,616179.21,C002
+CT00129,P001,A042,2026-08-30,C002,Labour,Site labour and workforce cost,489656.73,465221.23,Internal Team
+CT00130,P001,A042,2026-09-06,C002,Material,Material purchase and consumption,468951.02,484240.91,C002
+CT00131,P001,A043,2026-09-14,C002,Subcontract,Subcontractor work,457039.44,491560.19,C002
+CT00132,P001,A043,2026-09-16,C002,Equipment,Equipment operation/rental,563087.04,573044.41,BuildPlant Equipment
+CT00133,P001,A043,2026-09-25,C002,Material,Material purchase and consumption,460945.26,446130.49,C002
+CT00134,P001,A044,2026-10-03,C002,Labour,Site labour and workforce cost,568521.25,609352.33,Internal Team
+CT00135,P001,A044,2026-10-05,C002,Material,Material purchase and consumption,575408.28,572797.32,C002
+CT00136,P001,A044,2026-10-18,C002,Material,Material purchase and consumption,506441.54,501266.63,C002
+CT00137,P001,A045,2026-10-28,C002,Material,Material purchase and consumption,636227.4,593344.99,C002
+CT00138,P001,A045,2026-11-02,C002,Labour,Site labour and workforce cost,480594.29,456042.16,Internal Team
+CT00139,P001,A045,2026-11-12,C002,Subcontract,Subcontractor work,472290.72,456230.8,C002
+CT00140,P001,A046,2026-11-21,C002,Equipment,Equipment operation/rental,390811.07,363734.31,BuildPlant Equipment
+CT00141,P001,A046,2026-11-24,C002,Material,Material purchase and consumption,485334.76,452741.8,C002
+CT00142,P001,A046,2026-11-29,C002,Subcontract,Subcontractor work,449496.05,484451.0,C002
+CT00143,P001,A047,2026-12-13,C002,Labour,Site labour and workforce cost,478567.5,503587.95,Internal Team
+CT00144,P001,A047,2026-12-15,C002,Material,Material purchase and consumption,417838.04,413050.8,C002
+CT00145,P001,A047,2026-12-17,C002,Labour,Site labour and workforce cost,558389.27,591288.36,Internal Team
+CT00146,P001,A048,2026-04-23,C002,Material,Material purchase and consumption,293534.38,320330.46,C002
+CT00147,P001,A048,2026-05-01,C002,Material,Material purchase and consumption,311856.31,381100.93,C002
+CT00148,P001,A048,2026-05-10,C002,Material,Material purchase and consumption,209738.59,227364.73,C002
+CT00149,P001,A048,2026-05-10,C002,Labour,Site labour and workforce cost,205430.12,251675.96,Internal Team
+CT00150,P001,A048,2026-05-22,C002,Material,Material purchase and consumption,228980.86,268641.83,C002
+CT00151,P001,A049,2026-06-02,C003,Subcontract,Subcontractor work,1521845.9,1464214.76,C003
+CT00152,P001,A049,2026-06-20,C003,Material,Material purchase and consumption,1336150.3,1307627.46,C003
+CT00153,P001,A049,2026-06-30,C003,Labour,Site labour and workforce cost,1407790.81,1399282.78,Internal Team
+CT00154,P001,A049,2026-07-05,C003,Material,Material purchase and consumption,1272304.21,1232706.16,C003
+CT00155,P001,A049,2026-07-24,C003,Material,Material purchase and consumption,1219343.98,1193015.37,C003
+CT00156,P001,A049,2026-07-26,C003,Equipment,Equipment operation/rental,1149066.39,1217477.99,BuildPlant Equipment
+CT00157,P001,A049,2026-08-02,C003,Labour,Site labour and workforce cost,1463976.01,1378195.54,Internal Team
+CT00158,P001,A050,2026-06-22,C003,Material,Material purchase and consumption,951781.76,930340.69,C003
+CT00159,P001,A050,2026-07-02,C003,Material,Material purchase and consumption,637425.59,647133.77,C003
+CT00160,P001,A050,2026-07-17,C003,Labour,Site labour and workforce cost,1050993.83,1010235.01,Internal Team
+CT00161,P001,A050,2026-07-18,C003,Subcontract,Subcontractor work,712754.13,669866.39,C003
+CT00162,P001,A050,2026-07-22,C003,Material,Material purchase and consumption,867060.96,880440.77,C003
+CT00163,P001,A050,2026-08-06,C003,Labour,Site labour and workforce cost,967051.76,1006209.35,Internal Team
+CT00164,P001,A050,2026-08-17,C003,Material,Material purchase and consumption,1009353.44,1058734.68,C003
+CT00165,P001,A050,2026-08-26,C003,Labour,Site labour and workforce cost,737128.3,743718.51,Internal Team
+CT00166,P001,A051,2026-07-05,C003,Subcontract,Subcontractor work,193556.57,193157.55,C003
+CT00167,P001,A051,2026-07-09,C003,Labour,Site labour and workforce cost,152692.27,146259.7,Internal Team
+CT00168,P001,A051,2026-07-23,C003,Subcontract,Subcontractor work,192625.45,179291.9,C003
+CT00169,P001,A051,2026-07-27,C003,Material,Material purchase and consumption,230988.88,217086.81,C003
+CT00170,P001,A052,2026-08-08,C004,Labour,Site labour and workforce cost,574075.95,592195.96,Internal Team
+CT00171,P001,A052,2026-08-08,C004,Material,Material purchase and consumption,773946.05,784783.99,C004
+CT00172,P001,A052,2026-08-12,C004,Labour,Site labour and workforce cost,681768.63,674910.37,Internal Team
+CT00173,P001,A052,2026-08-15,C004,Labour,Site labour and workforce cost,710678.06,767267.06,Internal Team
+CT00174,P001,A052,2026-08-25,C004,Labour,Site labour and workforce cost,523022.64,498118.83,Internal Team
+CT00175,P001,A052,2026-09-26,C004,Labour,Site labour and workforce cost,642422.89,640508.51,Internal Team
+CT00176,P001,A052,2026-09-27,C004,Labour,Site labour and workforce cost,652544.48,605464.6,Internal Team
+CT00177,P001,A052,2026-10-02,C004,Material,Material purchase and consumption,599847.08,607810.97,C004
+CT00178,P001,A053,2026-09-06,C004,Labour,Site labour and workforce cost,556086.8,589272.92,Internal Team
+CT00179,P001,A053,2026-09-22,C004,Labour,Site labour and workforce cost,597682.71,558513.75,Internal Team
+CT00180,P001,A053,2026-09-24,C004,Labour,Site labour and workforce cost,573881.13,548330.84,Internal Team
+CT00181,P001,A053,2026-09-26,C004,Material,Material purchase and consumption,612758.83,644861.59,C004
+CT00182,P001,A053,2026-09-30,C004,Labour,Site labour and workforce cost,574205.15,582598.89,Internal Team
+CT00183,P001,A053,2026-10-03,C004,Material,Material purchase and consumption,504299.37,499962.39,C004
+CT00184,P001,A053,2026-10-12,C004,Material,Material purchase and consumption,648441.15,671610.76,C004
+CT00185,P001,A054,2026-08-29,C008,Material,Material purchase and consumption,230971.57,231162.02,C008
+CT00186,P001,A054,2026-09-01,C008,Material,Material purchase and consumption,163942.4,153600.91,C008
+CT00187,P001,A054,2026-09-01,C008,Material,Material purchase and consumption,173719.87,182495.66,C008
+CT00188,P001,A054,2026-09-07,C008,Material,Material purchase and consumption,177975.89,185735.81,C008
+CT00189,P001,A055,2026-11-23,C008,Labour,Site labour and workforce cost,340776.94,361696.08,Internal Team
+CT00190,P001,A055,2026-12-07,C008,Other,Site overhead and miscellaneous,284363.64,286741.06,Internal Team
+CT00191,P001,A055,2026-12-14,C008,Material,Material purchase and consumption,240713.59,253016.97,C008
+CT00192,P001,A055,2026-12-14,C008,Material,Material purchase and consumption,281053.13,260092.31,C008
+CT00193,P001,A056,2026-10-08,C004,Material,Material purchase and consumption,1017929.97,974400.38,C004
+CT00194,P001,A056,2026-10-27,C004,Subcontract,Subcontractor work,1489608.48,1405197.08,C004
+CT00195,P001,A056,2026-11-07,C004,Subcontract,Subcontractor work,1100770.39,1109332.46,C004
+CT00196,P001,A056,2026-11-12,C004,Material,Material purchase and consumption,1093396.15,1034476.39,C004
+CT00197,P001,A056,2026-11-14,C004,Labour,Site labour and workforce cost,1315364.1,1287603.24,Internal Team
+CT00198,P001,A056,2026-11-19,C004,Material,Material purchase and consumption,1355426.54,1444820.79,C004
+CT00199,P001,A056,2026-11-24,C004,Material,Material purchase and consumption,1052508.12,1122130.89,C004
+CT00200,P001,A056,2026-12-04,C004,Material,Material purchase and consumption,1531587.35,1612231.58,C004
+CT00201,P001,A057,2026-10-12,C004,Material,Material purchase and consumption,645168.25,638663.85,C004
+CT00202,P001,A057,2026-10-30,C004,Other,Site overhead and miscellaneous,591337.62,567667.67,Internal Team
+CT00203,P001,A057,2026-11-01,C004,Material,Material purchase and consumption,651710.85,638705.64,C004
+CT00204,P001,A057,2026-11-07,C004,Labour,Site labour and workforce cost,793906.68,752360.25,Internal Team
+CT00205,P001,A057,2026-11-07,C004,Material,Material purchase and consumption,584892.5,565610.75,C004
+CT00206,P001,A057,2026-11-08,C004,Material,Material purchase and consumption,656777.95,656702.32,C004
+CT00207,P001,A057,2026-11-08,C004,Material,Material purchase and consumption,689059.44,738671.91,C004
+CT00208,P001,A058,2026-10-16,C004,Material,Material purchase and consumption,281026.89,322430.89,C004
+CT00209,P001,A058,2026-11-02,C004,Material,Material purchase and consumption,205867.37,225834.82,C004
+CT00210,P001,A058,2026-11-05,C004,Material,Material purchase and consumption,287845.88,359589.86,C004
+CT00211,P001,A058,2026-11-19,C004,Labour,Site labour and workforce cost,202468.0,237857.22,Internal Team
+CT00212,P001,A058,2026-11-28,C004,Labour,Site labour and workforce cost,300670.45,366983.84,Internal Team
+CT00213,P001,A058,2026-11-29,C004,Labour,Site labour and workforce cost,273180.94,323824.78,Internal Team
+CT00214,P001,A058,2026-12-18,C004,Material,Material purchase and consumption,293419.69,359739.66,C004
+CT00215,P001,A059,2026-09-26,C004,Material,Material purchase and consumption,1766487.25,1842138.42,C004
+CT00216,P001,A059,2026-10-03,C004,Material,Material purchase and consumption,2222192.43,2276437.83,C004
+CT00217,P001,A059,2026-10-04,C004,Material,Material purchase and consumption,1508381.08,1459000.49,C004
+CT00218,P001,A059,2026-10-15,C004,Material,Material purchase and consumption,2240938.42,2093479.11,C004
+CT00219,P001,A059,2026-10-21,C004,Material,Material purchase and consumption,1770651.85,1896015.31,C004
+CT00220,P001,A059,2026-11-28,C004,Material,Material purchase and consumption,2275617.35,2243286.54,C004
+CT00221,P001,A059,2026-11-29,C004,Material,Material purchase and consumption,2012582.82,1998654.33,C004
+CT00222,P001,A060,2026-10-03,C005,Material,Material purchase and consumption,560885.56,587680.96,C005
+CT00223,P001,A060,2026-10-09,C005,Labour,Site labour and workforce cost,663999.23,733105.68,Internal Team
+CT00224,P001,A060,2026-10-12,C005,Material,Material purchase and consumption,675604.59,749227.21,C005
+CT00225,P001,A060,2026-11-06,C005,Subcontract,Subcontractor work,691761.45,726730.17,C005
+CT00226,P001,A060,2026-11-09,C005,Labour,Site labour and workforce cost,683950.58,739630.44,Internal Team
+CT00227,P001,A060,2026-11-26,C005,Material,Material purchase and consumption,540701.74,584192.36,C005
+CT00228,P001,A060,2026-11-30,C005,Labour,Site labour and workforce cost,518231.91,547237.23,Internal Team
+CT00229,P001,A060,2026-12-06,C005,Material,Material purchase and consumption,489744.66,508070.18,C005
+CT00230,P001,A061,2026-11-16,C005,Material,Material purchase and consumption,474596.85,480282.07,C005
+CT00231,P001,A061,2026-11-19,C005,Material,Material purchase and consumption,496214.54,479625.12,C005
+CT00232,P001,A061,2026-11-22,C005,Material,Material purchase and consumption,500139.62,518497.58,C005
+CT00233,P001,A061,2026-11-23,C005,Material,Material purchase and consumption,482737.46,495449.27,C005
+CT00234,P001,A061,2026-11-24,C005,Labour,Site labour and workforce cost,492732.03,531606.53,Internal Team
+CT00235,P001,A061,2026-12-08,C005,Material,Material purchase and consumption,403234.2,423487.25,C005
+CT00236,P001,A061,2026-12-11,C005,Labour,Site labour and workforce cost,471361.75,467807.32,Internal Team
+CT00237,P001,A062,2026-08-25,C006,Material,Material purchase and consumption,331686.67,335657.4,C006
+CT00238,P001,A062,2026-09-04,C006,Subcontract,Subcontractor work,415586.5,423185.54,C006
+CT00239,P001,A062,2026-09-23,C006,Material,Material purchase and consumption,411361.99,404691.0,C006
+CT00240,P001,A062,2026-09-24,C006,Material,Material purchase and consumption,416559.8,422025.01,C006
+CT00241,P001,A062,2026-10-07,C006,Material,Material purchase and consumption,422707.7,420823.74,C006
+CT00242,P001,A062,2026-10-10,C006,Material,Material purchase and consumption,489642.71,508887.47,C006
+CT00243,P001,A062,2026-11-14,C006,Subcontract,Subcontractor work,388991.21,407698.7,C006
+CT00244,P001,A062,2026-11-15,C006,Subcontract,Subcontractor work,497208.7,469642.83,C006
+CT00245,P001,A063,2026-10-25,C006,Labour,Site labour and workforce cost,242574.05,229605.69,Internal Team
+CT00246,P001,A063,2026-11-07,C006,Material,Material purchase and consumption,236936.52,219200.38,C006
+CT00247,P001,A063,2026-11-12,C006,Material,Material purchase and consumption,193387.26,204858.48,C006
+CT00248,P001,A063,2026-11-26,C006,Subcontract,Subcontractor work,223565.4,224736.54,C006
+CT00249,P001,A063,2026-12-02,C006,Material,Material purchase and consumption,192831.83,202467.15,C006
+CT00250,P001,A063,2026-12-07,C006,Subcontract,Subcontractor work,225690.61,224549.71,C006
+CT00251,P001,A063,2026-12-09,C006,Other,Site overhead and miscellaneous,244375.19,233816.15,Internal Team
+CT00252,P001,A064,2026-08-27,C007,Material,Material purchase and consumption,430126.78,451285.4,C007
+CT00253,P001,A064,2026-09-06,C007,Material,Material purchase and consumption,396566.43,390877.53,C007
+CT00254,P001,A064,2026-09-13,C007,Subcontract,Subcontractor work,356521.74,370258.68,C007
+CT00255,P001,A064,2026-09-24,C007,Material,Material purchase and consumption,488356.53,459966.47,C007
+CT00256,P001,A064,2026-10-15,C007,Material,Material purchase and consumption,404726.45,430169.5,C007
+CT00257,P001,A064,2026-10-23,C007,Other,Site overhead and miscellaneous,321203.68,310861.39,Internal Team
+CT00258,P001,A064,2026-11-08,C007,Material,Material purchase and consumption,439265.29,427605.0,C007
+CT00259,P001,A064,2026-11-26,C007,Labour,Site labour and workforce cost,378774.66,376352.77,Internal Team
+CT00260,P001,A065,2026-10-28,C007,Labour,Site labour and workforce cost,208409.05,197960.66,Internal Team
+CT00261,P001,A065,2026-11-04,C007,Material,Material purchase and consumption,243922.44,225694.06,C007
+CT00262,P001,A065,2026-11-08,C007,Subcontract,Subcontractor work,210732.75,218285.82,C007
+CT00263,P001,A065,2026-11-09,C007,Material,Material purchase and consumption,285494.7,266345.33,C007
+CT00264,P001,A065,2026-11-25,C007,Subcontract,Subcontractor work,290953.78,304803.98,C007
+CT00265,P001,A065,2026-12-06,C007,Material,Material purchase and consumption,289440.01,298629.32,C007
+CT00266,P001,A065,2026-12-11,C007,Subcontract,Subcontractor work,265557.27,266623.46,C007
+CT00267,P001,A066,2026-10-20,C001,Material,Material purchase and consumption,224190.02,212058.02,C001
+CT00268,P001,A066,2026-11-08,C001,Material,Material purchase and consumption,206956.13,219784.86,C001
+CT00269,P001,A066,2026-11-17,C001,Other,Site overhead and miscellaneous,139398.78,145065.97,Internal Team
+CT00270,P001,A066,2026-11-19,C001,Material,Material purchase and consumption,166925.28,170894.01,C001
+CT00271,P001,A066,2026-11-25,C001,Labour,Site labour and workforce cost,181264.34,174296.31,Internal Team
+CT00272,P001,A066,2026-12-04,C001,Equipment,Equipment operation/rental,147169.92,138150.11,BuildPlant Equipment
+CT00273,P001,A067,2026-11-06,C001,Material,Material purchase and consumption,656961.46,612302.74,C001
+CT00274,P001,A067,2026-11-06,C001,Labour,Site labour and workforce cost,629952.5,679184.28,Internal Team
+CT00275,P001,A067,2026-11-13,C001,Labour,Site labour and workforce cost,659980.75,668393.1,Internal Team
+CT00276,P001,A067,2026-11-20,C001,Labour,Site labour and workforce cost,598152.96,584112.11,Internal Team
+CT00277,P001,A067,2026-12-06,C001,Other,Site overhead and miscellaneous,612980.22,639499.74,Internal Team
+CT00278,P001,A067,2026-12-14,C001,Material,Material purchase and consumption,702626.76,701779.44,C001
+CT00279,P001,A068,2026-12-02,C001,Material,Material purchase and consumption,214685.54,203204.25,C001
+CT00280,P001,A068,2026-12-12,C001,Material,Material purchase and consumption,196982.94,208746.44,C001
+CT00281,P001,A068,2026-12-15,C001,Material,Material purchase and consumption,279671.94,259085.69,C001
+CT00282,P001,A068,2026-12-16,C001,Labour,Site labour and workforce cost,194857.27,196686.57,Internal Team
