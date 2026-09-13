@@ -82,11 +82,14 @@ Interactive Dashboard
         ↓
 Project Performance Insights
 
-👨‍💻 Author
-Sukchand Saren
-B.Tech Civil Engineering
+## 👨‍💻 Author
+
+**Sukchand Saren**  
+B.Tech Civil Engineering  
 Jadavpur University
+
 ## 📬 Connect With Me
-- 📧 Email: sukchandsaren30@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sukchand-saren-0418b5330?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🐙 GitHub: https://github.com/Sukchand30
+
+- 📧 **Email:** [sukchandsaren30@gmail.com](mailto:sukchandsaren30@gmail.com)
+- 💼 **LinkedIn:** [Sukchand Saren](https://www.linkedin.com/in/sukchand-saren-0418b5330/)
+- 🐙 **GitHub:** [Sukchand30](https://github.com/Sukchand30)
