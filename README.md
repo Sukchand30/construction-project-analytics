@@ -2,7 +2,7 @@
 Construction Project Performance Analytics &amp; Decision Support System using Python, SQL and Power BI
 
 A data-driven construction project analytics system developed using **Python, MySQL, Power BI, Excel/CSV** to monitor project cost, schedule, productivity, quality, materials, and equipment performance.
-
+![image alt](https://github.com/Sukchand30/construction-project-analytics/blob/23c6367b634e9b94dd549973c5f7cb78521f551b/dashboard.png)
 ---
 
 ## 📌 Project Overview
